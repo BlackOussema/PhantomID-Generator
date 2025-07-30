@@ -1,0 +1,23 @@
+{
+    "identity": {
+        "full_name": "Jasmine Conway",
+        "username": "zhansen",
+        "email": "kellyhutchinson@example.com",
+        "phone": "001-639-956-3388x982",
+        "address": "4070 Nguyen Rue, Jacksonview, IL 27916",
+        "birthdate": "2001-02-15",
+        "national_id": "222-39-5703",
+        "credit_card": "4010409339646781",
+        "profile_pic_url": "https://api.multiavatar.com/105030.png"
+    },
+    "fingerprint": {
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
+        "ip_address": "192.168.231.178",
+        "screen_resolution": "1280x720",
+        "language": "ar-TN",
+        "timezone": "Africa/Tunis",
+        "device": "Mobile",
+        "os": "macOS Catalina",
+        "mac_address": "92:7e:3f:2e:fd:da"
+    }
+}

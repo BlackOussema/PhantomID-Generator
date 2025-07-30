@@ -1,0 +1,23 @@
+{
+    "identity": {
+        "full_name": "David Williams",
+        "username": "butlerjohn",
+        "email": "deanalan@example.com",
+        "phone": "001-614-577-6642x08272",
+        "address": "3921 Paul Square, Kimmouth, LA 29563",
+        "birthdate": "1993-01-21",
+        "national_id": "267-14-5705",
+        "credit_card": "5162407431370311",
+        "profile_pic_url": "https://api.multiavatar.com/726893.png"
+    },
+    "fingerprint": {
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Version/14.1 Safari/605.1.15",
+        "ip_address": "192.168.146.65",
+        "screen_resolution": "1920x1080",
+        "language": "es-ES",
+        "timezone": "Europe/Paris",
+        "device": "Laptop",
+        "os": "Linux Ubuntu",
+        "mac_address": "75:8a:26:64:4c:48"
+    }
+}
