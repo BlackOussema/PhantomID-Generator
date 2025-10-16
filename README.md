@@ -10,7 +10,7 @@ Generates realistic fake identities and digital fingerprints for safe cybersecur
 
 ### 1. Clone or download this repository
 ```bash
-git clone https://github.com/username/FakeIdentityGenerator.git
+git clone https://github.com/BlackOussema/FakeIdentityGenerator.git
 cd FakeIdentityGenerator
 
 2. (Optional) Create and activate a virtual environment to avoid compatibility issues
