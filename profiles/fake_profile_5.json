@@ -1,0 +1,23 @@
+{
+    "identity": {
+        "full_name": "Mrs. Tiffany Chapman",
+        "username": "villarrealcatherine",
+        "email": "hernandezcassidy@example.com",
+        "phone": "(373)699-3821x5356",
+        "address": "98292 Douglas Mount, Marshmouth, IN 41009",
+        "birthdate": "1991-06-01",
+        "national_id": "125-39-0339",
+        "credit_card": "213173106266735",
+        "profile_pic_url": "https://api.multiavatar.com/211709.png"
+    },
+    "fingerprint": {
+        "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-G991B) AppleWebKit/537.36 Chrome/89.0.4389.105 Mobile Safari/537.36",
+        "ip_address": "192.168.127.195",
+        "screen_resolution": "1920x1080",
+        "language": "fr-FR",
+        "timezone": "Asia/Dubai",
+        "device": "Desktop",
+        "os": "Linux Ubuntu",
+        "mac_address": "de:48:d7:f4:3b:b6"
+    }
+}

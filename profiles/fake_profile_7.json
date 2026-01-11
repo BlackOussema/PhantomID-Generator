@@ -1,0 +1,23 @@
+{
+    "identity": {
+        "full_name": "Robert Stephenson",
+        "username": "bortega",
+        "email": "jessicabell@example.net",
+        "phone": "001-814-306-7666",
+        "address": "69347 Anna Field Apt. 844, Kellyburgh, DE 02553",
+        "birthdate": "1997-02-07",
+        "national_id": "277-60-9001",
+        "credit_card": "6011454048055910",
+        "profile_pic_url": "https://api.multiavatar.com/986654.png"
+    },
+    "fingerprint": {
+        "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Version/14.1 Safari/605.1.15",
+        "ip_address": "192.168.244.102",
+        "screen_resolution": "1280x720",
+        "language": "es-ES",
+        "timezone": "Asia/Dubai",
+        "device": "Desktop",
+        "os": "Linux Ubuntu",
+        "mac_address": "a6:d8:d2:a8:ce:99"
+    }
+}

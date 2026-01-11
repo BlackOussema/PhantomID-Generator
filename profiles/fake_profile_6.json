@@ -1,0 +1,23 @@
+{
+    "identity": {
+        "full_name": "Rebecca Harding",
+        "username": "kenneth66",
+        "email": "william79@example.net",
+        "phone": "7693967397",
+        "address": "1539 Gregory Mountains Apt. 353, Bassfort, PA 15625",
+        "birthdate": "1995-04-06",
+        "national_id": "715-51-4751",
+        "credit_card": "213155075293188",
+        "profile_pic_url": "https://api.multiavatar.com/974556.png"
+    },
+    "fingerprint": {
+        "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-G991B) AppleWebKit/537.36 Chrome/89.0.4389.105 Mobile Safari/537.36",
+        "ip_address": "192.168.132.130",
+        "screen_resolution": "1440x900",
+        "language": "es-ES",
+        "timezone": "Africa/Tunis",
+        "device": "Laptop",
+        "os": "Android 11",
+        "mac_address": "94:3a:51:c9:cf:1f"
+    }
+}

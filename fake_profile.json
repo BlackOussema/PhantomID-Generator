@@ -1,0 +1,23 @@
+{
+    "identity": {
+        "full_name": "Ashley Brown",
+        "username": "watsonbradley",
+        "email": "rodriguezryan@example.org",
+        "phone": "001-607-356-8035",
+        "address": "576 Delgado Fields, Morrisfort, WY 83339",
+        "birthdate": "1969-09-05",
+        "national_id": "665-63-4268",
+        "credit_card": "3533675373640357",
+        "profile_pic_url": "https://api.multiavatar.com/781565.png"
+    },
+    "fingerprint": {
+        "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-G991B) AppleWebKit/537.36 Chrome/89.0.4389.105 Mobile Safari/537.36",
+        "ip_address": "192.168.103.125",
+        "screen_resolution": "1280x720",
+        "language": "ar-TN",
+        "timezone": "UTC",
+        "device": "Desktop",
+        "os": "Android 11",
+        "mac_address": "dc:d2:9c:7c:b6:5a"
+    }
+}

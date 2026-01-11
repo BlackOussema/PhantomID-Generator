@@ -1,0 +1,23 @@
+{
+    "identity": {
+        "full_name": "Jeremy Thomas",
+        "username": "johnturner",
+        "email": "antonioharmon@example.net",
+        "phone": "(237)429-5681",
+        "address": "Unit 7998 Box 9387, DPO AE 32560",
+        "birthdate": "1992-07-25",
+        "national_id": "419-66-3937",
+        "credit_card": "4485740684688051",
+        "profile_pic_url": "https://api.multiavatar.com/364112.png"
+    },
+    "fingerprint": {
+        "user_agent": "Mozilla/5.0 (Linux; Android 11; SM-G991B) AppleWebKit/537.36 Chrome/89.0.4389.105 Mobile Safari/537.36",
+        "ip_address": "192.168.215.102",
+        "screen_resolution": "1366x768",
+        "language": "fr-FR",
+        "timezone": "Asia/Dubai",
+        "device": "Mobile",
+        "os": "Android 11",
+        "mac_address": "00:9b:3b:e3:52:b0"
+    }
+}
